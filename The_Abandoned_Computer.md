@@ -22,6 +22,7 @@ You found an old abandoned house with a very old computer that is still working.
 This was the first approach I did before I realised decompiling was a thing.
 
 When running the computer.exe on Cygwin terminal, I was greeted with a username and password prompt, guessing the password immediately did not work
+
 ![1681659977096](image/writeup/1681659977096.png)
 
 However, from another challenge during the same ctf, I realise that putting the exe file into a hex editor/viewer reveals some printf messages, So I did the same for this challenge.

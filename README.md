@@ -1,7 +1,7 @@
 
 # <Lag And Crash 3.0> CTF
 
-Writeups for Lag and Crash 3.0 CTF: [Lag and Crash 3.0<https://ctf.lagncra.sh/>)
+Writeups for Lag and Crash 3.0 CTF: [Lag and Crash 3.0]<https://ctf.lagncra.sh/>)
 
 ## Categories
 
